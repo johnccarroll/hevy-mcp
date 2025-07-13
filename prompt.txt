@@ -1,0 +1,3 @@
+Please build out a full Model Context Protocol server to use with the API documented in the JSON. I want all the possible tooling possible and use every api call here. Include a test directory as well with a simple integration test for the client as well as MCP test suites per-tool. Here is my API Key, that will be an environment variable for the MCP. Use typescript for this implementation.
+454b6ebe-f229-4062-9215-48c9b1c87ac8
+
